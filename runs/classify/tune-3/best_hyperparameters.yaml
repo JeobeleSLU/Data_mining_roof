@@ -1,0 +1,31 @@
+# 6/20 iterations complete ✅ (1179.42s)
+# Results saved to C:\Users\Jeobel\Downloads\Roof-Type-Classifier.v1i.folder\runs\classify\tune-3
+# Best fitness=0.91429 observed at iteration 3
+# Best fitness metrics are {'metrics/accuracy_top1': 0.82857, 'metrics/accuracy_top5': 1.0, 'val/loss': 0.78405, 'fitness': 0.91429}
+# Best fitness model is C:\Users\Jeobel\Downloads\Roof-Type-Classifier.v1i.folder\runs\classify\tune-3\weights
+lr0: 0.00193
+lrf: 0.01
+momentum: 0.91185
+weight_decay: 0.0
+warmup_epochs: 2.98801
+warmup_momentum: 0.80252
+box: 7.50138
+cls: 0.49047
+cls_pw: 0.00023
+dfl: 1.35565
+hsv_h: 0.01484
+hsv_s: 0.70385
+hsv_v: 0.42636
+degrees: 0.0025
+translate: 0.08356
+scale: 0.50162
+shear: 0.0
+perspective: 0.0
+flipud: 0.00339
+fliplr: 0.43776
+bgr: 0.01288
+mosaic: 1.0
+mixup: 0.00544
+cutmix: 0.0
+copy_paste: 0.00334
+close_mosaic: 10
